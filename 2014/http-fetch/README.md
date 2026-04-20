@@ -1,4 +1,4 @@
 HttpFetch
 =========
 
-Source code for http://eax.me/java-fetch-http/
+Source code for https://eax.me/2014/2014-06-25-java-fetch-http.html
